@@ -193,15 +193,6 @@ INSERT INTO solution VALUES (1, 'Miranda Priestly');
 
 ---
 
-## 🚀 Improvements Made
-- Clean GitHub-friendly formatting
-- Logical step-by-step structure
-- Collapsible schema section
-- Minimal but clear explanations
-- Reduced redundancy
-
----
-
 ## 📄 Usage
 1. Run queries step-by-step in your SQL environment  
 2. Follow the investigation logic  
