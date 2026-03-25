@@ -20,6 +20,9 @@ This walkthrough follows a step-by-step investigation:
 <details>
 <summary>Click to expand table structures</summary>
 
+### 📊 ER Diagram
+![ER Diagram](assets/erd.png)
+
 ### crime_scene_report
 ```sql
 (date INTEGER, type TEXT, description TEXT, city TEXT)
